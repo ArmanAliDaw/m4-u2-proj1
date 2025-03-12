@@ -1,0 +1,105 @@
+[
+    {
+    "name": "SAMSUNG GALAXY S25 ULTRA",
+    "color": "COLOR:     TITAN WHITE",
+    "capacity": "CAPACIDAD :   256GB/12GB",
+    "price": "PRECIO: 1599€",
+    "image":"https://storage.comprasmartphone.com/smartphones/samsung-galaxy-s25-ultra.png",
+    "url": "https://www.samsung.com/es/smartphones/galaxy-s25-ultra/buy/"
+    },
+
+    {
+    "name": "SAMSUNG GALAXY S25+",
+    "color": "COLOR:     TITAN GREY",
+    "capacity": "CAPACIDAD :   256GB/12GB",
+    "price": "PRECIO: 1100€",
+    "image":"https://images.samsung.com/is/image/samsung/p6pim/es/2501/gallery/es-galaxy-s25-s931-534591-sm-s931bzsheub-thumb-544740754?$360_360_PNG$",
+    "url": "https://www.samsung.com/es/smartphones/galaxy-s25/buy/?modelcode=sm-s936bzkdeub/"
+    },
+
+    {
+    "name": "SAMSUNG GALAXY S25",
+    "color": "COLOR:     TITAN GREY",
+    "capacity": "CAPACIDAD :   256GB/12GB",
+    "price": "PRECIO: 899€",
+    "image":"https://images.samsung.com/is/image/samsung/p6pim/es/2501/gallery/es-galaxy-s25-s931-534591-sm-s931bzsheub-thumb-544740754?$360_360_PNG$",
+    "url": "https://www.samsung.com/es/smartphones/galaxy-s25/buy/"
+    },
+    
+
+    {
+    "name": "IPHONE 16 PRO MAX",
+    "color": "COLOR:     TITAN BLACK",
+    "capacity": "CAPACIDAD :    256GB/6GB",
+    "price": "PRECIO: 1559€",
+    "image":"https://assets.swappie.com/cdn-cgi/image/width=600,height=600,fit=contain,format=auto/swappie-iphone-16-pro-max-black-titanium-back.png?v=5b896b19",
+    "url": "https://www.apple.com/es/iphone-16-pro/"
+    },
+
+    {
+    "name": "IPHONE 16 PRO",
+    "color": "COLOR:     TITAN BLACK",
+    "capacity": "CAPACIDAD :    128GB/6GB",
+    "price": "PRECIO: 1259€",
+    "image":"https://assets.swappie.com/cdn-cgi/image/width=600,height=600,fit=contain,format=auto/swappie-iphone-16-pro-max-black-titanium-back.png?v=5b896b19",
+    "url": "https://www.apple.com/es/iphone-16-pro/"
+    },
+
+    {
+    "name": "IPHONE 16 ",
+    "color": "COLOR:     TITAN BLACK",
+    "capacity": "CAPACIDAD :    128GB/6GB",
+    "price": "PRECIO: 1059€",
+    "image":"https://assets.swappie.com/cdn-cgi/image/width=600,height=600,fit=contain,format=auto/swappie-iphone-16-black-back.png?v=5b896b19",
+    "url": "https://www.apple.com/es/iphone-16-pro/"
+    },
+
+    {
+    "name": "GOOGLE PIXEL 9 PRO XL",
+    "color": "COLOR:     CLOUDY PINK",
+    "capacity": "CAPACIDAD :    128GB/12GB",
+    "price": "PRECIO: 1200€",
+    "image":"https://www.ourfriday.co.uk/image/cache/catalog/Google/google-pixel-9-pro-rose-product-remove-background-1200x1200.png",
+    "url": "https://store.google.com/es/product/pixel_9_pro?hl=es&pli=1"
+    },
+    {
+    "name": "XIAOMI 14 ULTRA",
+    "color": "COLOR:     Cloudy White",
+    "capacity": "CAPACIDAD :    128GB/12GB",
+    "price": "PRECIO: 1200€",
+    "image":"https://www.afdigitale.it/wp-content/uploads/2024/03/White-Back-R9-3-1024x1024.png",
+    "url": "https://www.mi.com/es/product/xiaomi-14-ultra/?srsltid=AfmBOoqFvdHA_WpzO27ShjuJTcxdDC-9sFlu5xFzv5XajjUk7UESQTr_"
+    },
+    {
+    "name": "SAMSUNG GALAXY Z FOLD 6",
+    "color": "COLOR:   GREY",
+    "capacity": "CAPACIDAD :    256GB/12GB",
+    "price": "PRECIO: 1200€",
+    "image":"https://bedriftsbutikk.telenor.no/mediabank/store/4/43823/sm-f956-zfold6-openback-silver-shadow-240423-produktside-1600px.png",
+    "url": "https://www.samsung.com/es/smartphones/galaxy-z-fold6/"
+    },
+    {
+    "name": "ONEPLUS 13",
+    "color": "COLOR:   NIGHT BLACK",
+    "capacity": "CAPACIDAD :    128GB/8GB",
+    "price": "PRECIO: 1200€",
+    "image":"https://image01-in.oneplus.net/media/202412/13/2bfdcdf3e5f3c310afcd47282adc3ff4.png",
+    "url": "https://www.oneplus.com/es/13"
+    },
+    {
+    "name": "VIVO X200 PRO",
+    "color": "COLOR:   GREY",
+    "capacity": "CAPACIDAD :    512GB/12GB",
+    "price": "PRECIO: 1200€",
+    "image":"https://www.myg.in/images/thumbnails/300/300/detailed/103/x200-pro-5g-v2413-vivo-original-imah7btsex8hymu73-removebg-preview.png.png",
+    "url": "https://vivoonlinestore.com/products/x-200-pro?variant=45570748514534&country=ES&currency=EUR&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&utm_source=google&utm_medium=cpc&utm_campaign=Vivo_ES_Shopping_Multimodel_HYS202411988961&gclid=Cj0KCQjw4cS-BhDGARIsABg4_J0t3_RhHyv0ZD2PdqIPQdRg9Aa-9N1HlPOUyj3G2v73vLs1s5j9Ie4aAhllEALw_wcB&gad_source=1"
+    },
+    {
+    "name": "VIVO X200",
+    "color": "COLOR:     GREEN",
+    "capacity": "CAPACIDAD :    128GB/12GB",
+    "price": "PRECIO: 1200€",
+    "image":"https://img-prd-pim.poorvika.com/product/Vivo-x200-5g-natural-green-256gb-12gb-ram-Back-View.png",
+    "url": "https://vivoonlinestore.com/products/x-200-pro?variant=45570748514534&country=ES&currency=EUR&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&utm_source=google&utm_medium=cpc&utm_campaign=Vivo_ES_Shopping_Multimodel_HYS202411988961&gclid=Cj0KCQjw4cS-BhDGARIsABg4_J0t3_RhHyv0ZD2PdqIPQdRg9Aa-9N1HlPOUyj3G2v73vLs1s5j9Ie4aAhllEALw_wcB&gad_source=1"
+    }
+]
