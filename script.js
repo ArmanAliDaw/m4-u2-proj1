@@ -53,6 +53,22 @@ async function CrearTarjeta(moviles) {
         linkmovil.target = "_blank";  
         linkmovil.innerText = "PAGINA WEB";
         contenido.append(linkmovil);
+
+        
+        contenido.addEventListener('contextmenu', function(event) 
+        {
+            event.preventDefault(); 
+            document.body.classList.toggle('modo-noche');
+        });
+
+        
+        contenido.addEventListener('mouseover', function() {
+            contenido.style.backgroundColor = '#fefefe';
+        });
+        contenido.addEventListener('mouseout', function() {
+            contenido.style.backgroundColor = '#ececec';
+        });
         
     }
+
 }

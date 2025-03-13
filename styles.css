@@ -52,3 +52,13 @@ header{
     color: blue;
     text-decoration: none;
 }
+
+
+.modo-noche {
+    background-color: #333;
+    color: white;
+}
+
+.modo-noche .card h2, .modo-noche .card p, .modo-noche .card a {
+    color: rgba(70, 68, 68, 0.238);
+}
